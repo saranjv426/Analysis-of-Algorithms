@@ -66,7 +66,7 @@ python plots.py --mode all
 
 ## Example Usage
 To reproduce both experiments
-# Compile all Java programs: javac *.java
-# Run fabric cutting optimization: java GreedyFabricCutting
-# Run image generation and defect detection: java ImageCreation, java DivideAndConquerFabricDefectDetection
-# Plot experimental graphs: python plots.py --mode all
+### Compile all Java programs: javac *.java
+### Run fabric cutting optimization: java GreedyFabricCutting
+### Run image generation and defect detection: java ImageCreation, java DivideAndConquerFabricDefectDetection
+### Plot experimental graphs: python plots.py --mode all
